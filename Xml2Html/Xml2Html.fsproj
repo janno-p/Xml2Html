@@ -38,6 +38,9 @@
     <Reference Include="suave">
       <HintPath>..\packages\Suave.0.15.0\lib\suave.dll</HintPath>
     </Reference>
+    <Reference Include="FSharp.Data.SqlProvider">
+      <HintPath>..\packages\FSharp.Data.SqlProvider\FSharp.Data.SqlProvider.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AssemblyInfo.fs" />
